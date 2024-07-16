@@ -9,7 +9,7 @@ Hello! I’m **Amrit**, your go-to cybersecurity wizard with a knack for ethical
 - 👯 **Collaboration**: Always eager to team up on exciting cybersecurity research and projects.
 - 🤔 **Help Wanted**: Looking for insights on [specific challenges or areas where you seek assistance].
 - 💬 **Ask Me About**: Anything from pentesting and ethical hacking to bug bounty hunting.
-- 📫 **Contact Me**: Shoot me an email at [your-email@example.com].
+- 📫 **Contact Me**: Shoot me an email at [amritprasad1998@gmail.com].
 - ⚡ **Fun Fact**: I once found a vulnerability in a popular app just by using it for my daily tasks. It’s amazing how much you can uncover when you’re not even looking for trouble!.
 
 ## 🛠️ **Skills & Tools**
@@ -25,21 +25,9 @@ Here’s a glimpse of my digital toolkit:
 
 ## 🚀 **Current Focus**
 
-Right now, I’m diving into [brief description of your current focus or research]. If you’re into the same topics or have cool resources to share, let’s chat!
+Right now, I’m diving into Advance bug bounty. If you’re into the same topics or have cool resources to share, let’s chat!
 
-## 📚 **Learning & Resources**
 
-I’m constantly expanding my knowledge. Here’s what I’m exploring:
-
-- **Books**: "The Web Application Hacker's Handbook", "Hacking: The Art of Exploitation" – Essential reads for any security enthusiast.
-- **Online Courses**: Coursera, Udemy – Learning the latest in cybersecurity through hands-on courses.
-- **Communities**: [Reddit /r/netsec](https://www.reddit.com/r/netsec/), [Stack Exchange Information Security](https://security.stackexchange.com/) – Where I hang out and learn from others.
-
-## 🎨 **My Digital Creations**
-
-Check out some of my fun projects and creations related to cybersecurity:
-
-- **[Visualization Project Name]**: [Brief description of the project]. [Link to project or portfolio]
 
 ## 🤖 **Fun Code Snippet**
 
